@@ -8,7 +8,7 @@
 
 ## Detalhes do Sistema
 
-| Model            | Acer Nitro 5 AN515-54                                        |
+| Model            | Acer Nitro 5 AN515-54-58CL 15"                               |
 | :--------------- | :----------------------------------------------------------- |
 | Processor        | Intel i5-9300H                                               |
 | GPU              | Intel UHD Graphics 630 & NVIDIA GeForce® GTX 1650 (Disabled) |
@@ -31,7 +31,7 @@
 - Wi-fi ✅;
 - Bluetooth ✅;
 - Trackpad ✅;
-- Intel UHD Graphics 630;
+- Intel UHD Graphics 630 ✅;
 - Webcam ✅;
 - Audio ✅;
 - Microfone ✅;
@@ -53,7 +53,7 @@
 
 Você pode usar um adaptador para HDMI
 
-[Aqui está um bom](hhttps://s.click.aliexpress.com/e/_A1hTAn)
+[Aqui está um bom](https://s.click.aliexpress.com/e/_A1hTAn)
 
 <br/>
 
